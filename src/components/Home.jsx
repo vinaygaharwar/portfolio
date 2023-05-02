@@ -12,7 +12,7 @@ const Home = () => {
     >
       <div className=" max-w-screen-lg mx-auto flex flex-col md:flex-row items-center justify-center h-full px-4">
         <div className="flex flex-col justify-center h-full">
-          <div className="text-6xl  font-bold text-white  ">
+          <div className="text-6xl  font-bold text-white pt-10 ">
           <h1 >
             I'm a Front End Developer
           </h1>
