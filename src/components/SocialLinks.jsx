@@ -12,7 +12,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://www.linkedin.com/in/vinay-gaharwar-2a738417a/",
+      href: "https://in.linkedin.com/in/vinay-gaharwar-2a738417a",
       style: "rounded-tr-md",
     },
     {
